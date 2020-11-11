@@ -1,2 +1,18 @@
 lxml==3.4.4
 openPyXL==2.3.3
+
+pg8000
+pymysql
+numpy
+rdflib
+isodate
+regex
+# gzip
+# zlib
+aniso8601
+graphviz
+holidays
+# PIL
+pycountry
+
+Crypto
